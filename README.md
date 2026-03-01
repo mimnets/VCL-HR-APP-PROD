@@ -89,4 +89,4 @@ It's a practical tool built to stay out of your way.
 ---
 
 **[Start Your 14-Day Free Trial at OpenHRApp.com](https://openhrapp.com)** &nbsp;|&nbsp; 
-**[View the Source Code on GitHub](#)**
+**[View the Source Code on GitHub](https://github.com/mimnets/OpenHRApp)**
