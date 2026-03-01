@@ -12,6 +12,12 @@
 
 OpenHR is an open-source management platform built for growing teams. Whether you are an admin configuring the system, a manager overseeing a department, or an employee tracking your daily tasks, this guide covers the essentials to get you moving.
 
+### Accessing the Platform
+
+To begin, enter your organization email and security credentials on the **Personnel Gateway**. If you are setting up a new team, use the registration option at the bottom.
+
+![OpenHR Login Screen](image_e9e69a.png)
+
 ### What You Can Do with OpenHR
 
 * **Track Attendance:** Clock in and out using selfie verification and GPS tagging. The system supports distinct modes for office, factory, and field work.
@@ -27,22 +33,19 @@ OpenHR is an open-source management platform built for growing teams. Whether yo
 3.  **Approvals:** Leave requests move through a configurable chain, typically from Manager to HR.
 4.  **Oversight:** Admins and HR monitor reports, adjust policies, and manage system configurations.
 
-### Your Dashboard
+---
 
-Your view changes based on your responsibilities:
+### Key Features in Action
 
-* **Admin/HR:** Access organization-wide statistics, a global employee directory, and leave allocation tools.
-* **Manager:** View team-specific data, directory info for direct reports, and attendance summaries.
-* **Employee:** See personal stats, team information, and reporting manager details.
+#### 1. Smart Attendance
+When clocking in, the app ensures your "Face is Ready" and validates your location before you can begin your session.
 
-### Quick Actions
+![Attendance Session Interface](image_e9e604.png)
 
-Shortcuts on your dashboard allow you to handle frequent tasks without digging through menus:
+#### 2. Simple Leave Requests
+Applying for time off is straightforward. Select your leave type, pick your dates, and provide a brief reason for the request.
 
-* **Office Check-In:** Start an attendance session for office-based work.
-* **Factory Check-In:** Start a session for field or factory work (this requires location remarks).
-* **Finish Session:** End your active attendance tracking. This button appears only when you are clocked in.
-* **Apply for Leave:** Jump straight to the leave application form.
+![New Leave Request Form](image_e9e5c7.png)
 
 ---
 
