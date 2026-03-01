@@ -88,5 +88,5 @@ It's a practical tool built to stay out of your way.
 
 ---
 
-**[Start Your 14-Day Free Trial at OpenHRApp.com](https://openhrapp.com)** &nbsp;|&nbsp; 
+**[Start Your 14-Day Free Trial at OpenHRApp.com](https://cdn.openhrapp.com/openhrapp.apk)** &nbsp;|&nbsp; 
 **[View the Source Code on GitHub](https://github.com/mimnets/OpenHRApp)**
